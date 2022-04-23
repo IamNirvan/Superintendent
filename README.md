@@ -23,7 +23,7 @@ The standard features include:
 * Python (**Version 3 or above**).
 
 ## Usage
-To know more on how you can utilize Superintendent, please consider reading its [user manual](Documents/Documentation.pdf).
+To know more on how you can utilize Superintendent, please consider reading its [user manual](Documentation/Documentation.pdf).
 
 ## Inspiration
 This project was inspired by a YouTube tutorial from Corey Schafer, regarding a [file renaming program](https://www.youtube.com/watch?v=ve2pmm5JqmI).
