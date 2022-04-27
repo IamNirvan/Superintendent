@@ -2,7 +2,7 @@
 This repository is for Superintendent. The file organizing program
 
 ## Introduction
-This application was created for the purpose of organizing meessy directories in my PC. This application gave me the opportunity to work closely with files and directories in Python.
+This application was created for the purpose of organizing messy directories in my PC. This application gave me the opportunity to work closely with files and directories in Python.
 
 Superintendent is a bespoke, CLI application that is used to organize files into their own directories(folders), based on their types.
 
